@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IMovies
 
 Movie ticket booking made simple.
@@ -93,3 +94,6 @@ Both the Express API and React application are runnable. Local Docker MongoDB co
 
 This project is available under the [MIT License](LICENSE).
 
+=======
+# mymovies
+>>>>>>> fa47a8889d46b8d703ce8889c09927135d6e456c
